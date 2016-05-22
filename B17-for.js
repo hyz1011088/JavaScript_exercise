@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><p>点击按钮循环代码5次。</p><button onclick="myFunction()">点击这里</button><p id="demo"></p><script>function myFunction(){var x="";for (var i=0;i<5;i++)  {  x=x + "The number is " + i + "<br>";  }document.getElementById("demo").innerHTML=x;}</script></body></html>
