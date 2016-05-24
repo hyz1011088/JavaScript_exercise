@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>变量提升</title></head><body><p id="demo"></p><script>var x = 5; // 初始化 xelem = document.getElementById("demo"); // 查找元素 elem.innerHTML = "x 为：" + x + "，y 为：" + y;           // 显示 x 和 yvar y = 7; // 初始化 y</script></body></html> 
