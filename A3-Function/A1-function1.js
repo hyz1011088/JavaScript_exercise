@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><p>函数存储在变量后，变量可作为函数使用：</p><p id="demo"></p><script>var x = function (a, b) {return a * b};document.getElementById("demo").innerHTML = x(4, 3);</script></body></html>
