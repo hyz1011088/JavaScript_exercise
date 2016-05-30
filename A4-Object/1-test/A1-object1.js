@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><script>var person=new Object();person.firstname="John";person.lastname="Doe";person.age=50;person.eyecolor="blue"; document.write(person.firstname + " is " + person.age + " years old.");</script></body></html>
