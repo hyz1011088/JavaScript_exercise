@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><h1 onclick="this.innerHTML='Ooops!'">╣Ц╩Внд╠╬!</h1></body></html>

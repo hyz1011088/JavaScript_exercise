@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><h1 id="id1">我的标题 1</h1><button type="button" onclick="document.getElementById('id1').style.color='red'">点我!</button></body></html>

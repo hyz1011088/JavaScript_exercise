@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><p>toString() 方法将数字转换为字符串。</p><p id="demo"></p><script>var x = 123;document.getElementById("demo").innerHTML =    x.toString() + "<br>" +   (123).toString() + "<br>" +   (100 + 23).toString();</script></body></html>

@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><script>var str="Hello world!";document.write(str.match("world") + "<br>");document.write(str.match("World") + "<br>");document.write(str.match("world!"));</script></body></html>

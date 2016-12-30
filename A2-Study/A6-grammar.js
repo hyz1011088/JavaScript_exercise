@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><p id="demo"></p><p id="demo1"></p><script>document.getElementById("demo").innerHTML = 123e5;document.getElementById("demo1").innerHTML = 16 + "Volvo";</script></body></html>

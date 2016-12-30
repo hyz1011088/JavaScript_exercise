@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><h1>我的第一个 Web 页面</h1><p id="demo">我的第一个段落。</p><script>document.getElementById("demo").innerHTML="段落已修改。";window.alert(5 + 6);document.write(Date());console.log(11);</script>	<button onclick="myFunction()">点我</button><script>function myFunction() {   	document.write(Date());}</script></body></html>
