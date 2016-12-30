@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><script>var person={firstname : "John",lastname  : "Doe",id        :  5566};document.write(person.lastname + "<br>");document.write(person["lastname"] + "<br>");</script></body></html>

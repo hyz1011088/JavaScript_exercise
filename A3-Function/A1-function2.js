@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><p> arguments.length 属性返回函数接收到参数的个数：</p><p id="demo"></p><script>function myFunction(a, b) {    return arguments.length;}document.getElementById("demo").innerHTML = myFunction(4, 3);</script></body></html>

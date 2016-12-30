@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><p>全局函数 myFunction() 会自动成为 window 对象的方法。</p><p>myFunction() is the same as window.myFunction().</p><p id="demo"></p><script>function myFunction(a, b) {	return a * b;}document.getElementById("demo").innerHTML = window.myFunction(10, 2); </script></body></html>

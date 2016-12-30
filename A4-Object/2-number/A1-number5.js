@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><script>var x = 2/0;var y = -2/0;document.write(x + "<br>");document.write(y + "<br>");myNumber=2;while (myNumber!=Infinity){myNumber=myNumber*myNumber;document.write(myNumber +'<BR>');}</script></body></html>

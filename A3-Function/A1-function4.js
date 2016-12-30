@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><p>myObject.fullName() ·µ»Ø John Doe:</p><p id="demo"></p><script>var myObject = {    firstName:"John",    lastName: "Doe",    fullName: function() {		return this.firstName + " " + this.lastName;    }}document.getElementById("demo").innerHTML = myObject.fullName(); </script></body></html>

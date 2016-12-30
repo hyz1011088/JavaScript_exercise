@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><button onclick="this.innerHTML=Date()">现在的时间是?</button><button onclick="getElementById('demo').innerHTML=Date()">现在的时间是?2</button><p id="demo"></p></body></html>

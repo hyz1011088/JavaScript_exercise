@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><p id="p1">Hello World!</p><script>document.getElementById("p1").innerHTML="新文本!";</script><p>以上段落通过脚本修改文本。</p></body></html>

@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><p>点击按钮创建及增加字符串变量。</p><button onclick="myFunction()">点击这里</button><p id="demo"></p><script>function myFunction(){txt1="What a very";txt2="nice day";txt3=txt1+txt2;document.getElementById("demo").innerHTML=txt3;}</script></body></html>

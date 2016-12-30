@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><p>该实例使用 addEventListener() 方法在按钮中添加点击事件。 </p><button id="myBtn">点我</button><script>document.getElementById("myBtn").addEventListener("click", function(){    alert("Hello World!");});</script></body></html>
