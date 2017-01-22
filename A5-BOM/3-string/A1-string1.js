@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><script>var txt = "Hello World!";document.write("<p>" + txt.length + "</p>");var txt="ABCDEFGHIJKLMNOPQRSTUVWXYZ";document.write("<p>" + txt.length + "</p>");</script></body></html>

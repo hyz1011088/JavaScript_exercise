@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>菜鸟教程(runoob.com)</title></head><body><script>document.write("可用宽度: " + screen.availHeight);document.write("可用宽度: " + screen.availWidth);</script></body></html>

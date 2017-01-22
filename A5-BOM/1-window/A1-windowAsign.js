@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>菜鸟教程(runoob.com)</title></head><head><script>function newDoc(){	window.location.assign("http://www.w3cschool.cc")}</script></head><body><input type="button" value="加载新文档" onclick="newDoc()"></body></html>

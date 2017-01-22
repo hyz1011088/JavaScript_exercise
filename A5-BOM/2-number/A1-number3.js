@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><script>var y = 0377;var z = 0xFF; document.write(y + "<br>");document.write(z + "<br>");</script></body></html>

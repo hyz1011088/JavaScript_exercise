@@ -1,0 +1,1 @@
+<!DOCTYPE html><html><body><script>var x;document.write("<p>Only 17 digits: ");x=12345678901234567890;document.write(x + "</p>");document.write("<p>0.2 + 0.1 = ");x=0.2+0.1;document.write(x + "</p>");document.write("<p>It helps multiplying and dividing by 10: ");x=(0.2*10+0.1*10)/10;document.write(x +"</p>");</script></body></html>
