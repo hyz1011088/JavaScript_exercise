@@ -1,1 +1,0 @@
-<!DOCTYPE html><html><body><script>var myNumber = 128;document.write(myNumber + ' decimal<br>');document.write(myNumber.toString(16) + ' hex<br>');document.write(myNumber.toString(8) + ' octal<br>');document.write(myNumber.toString(2) + ' binary<br>');</script></body></html>
