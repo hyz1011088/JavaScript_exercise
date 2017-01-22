@@ -6,14 +6,14 @@
 </head>
 <body>
 
-<p id="demo">点击按钮截取数组下标 1 到 2 的元素。</p>
+<p id="demo">点击按钮将数组转为字符串并返回。</p>
 <button onclick="myFunction()">点我</button>
 <script>
 function myFunction(){
-	var fruits = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
-	var citrus = fruits.slice(1,3);
+	var fruits = ["Banana", "Orange", "Apple", "Mango"];
+	var str = fruits.toString();
 	var x=document.getElementById("demo");
-	x.innerHTML=citrus;
+	x.innerHTML= str;
 }
 </script>
 
